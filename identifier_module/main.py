@@ -1,4 +1,4 @@
 #! /usr/bin/env python
 
-def hello_world():
-    print("Hello world!")
+def hi_world():
+    print("Hi world!")

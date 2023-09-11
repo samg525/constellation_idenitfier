@@ -27,6 +27,6 @@ setup(
     python_requires='>=3.8',
     entry_points={
         'console_scripts':[
-            'hello_world=mymodule.submod1:hello_world'
+            'hi_world=identifier_module.main:hi_world'
             ]}
 )
