@@ -21,7 +21,7 @@ def get_requirements():
 
 setup(
     name='constellation_identifier', # the name of the module
-    packages=['constellation_identifier'], # the location of the module
+    packages=['identifier_module'], # the location of the module
     version="0.1",
     install_requires=get_requirements(),
     python_requires='>=3.8',
